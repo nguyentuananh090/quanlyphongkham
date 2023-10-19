@@ -1,4 +1,4 @@
-# quanlyphongkham123
+# quanlyphongkham
 Ứng dụng "Takki Health" là một hệ thống phòng khám tư nhân dành cho cả bệnh nhân và nhân viên của phòng khám. Với các tính năng phù hợp, ứng dụng này mang lại sự tiện lợi và tối ưu hóa quy trình quản lý phòng khám.
 Đối với người dùng cá nhân, ứng dụng cung cấp các tính năng sau:
 - Người dùng có thể truy cập vào thông tin chi tiết về phòng khám như chuyên môn khám bệnh, thông tin về bác sĩ, trang thiết bị y tế, và nhiều thông tin khác.
